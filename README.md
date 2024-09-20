@@ -1,2 +1,2 @@
 # Nei Junior
-## Front End Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
+## Frontend Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
