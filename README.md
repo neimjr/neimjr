@@ -15,7 +15,6 @@ Frontend Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
 <img align="left" width="30px" style="padding-right: '10px'" alt="materializecss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-<img align="left" width="30px" style="padding-right: '10px'" alt="sveltekit" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sveltekit/sveltekit-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
