@@ -1,7 +1,7 @@
 # Nei Junior
 Frontend Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
 ## 🧰 Tools
-  <p>
+<p style="display: flex; gap: 5px">
     <img width="30px" style="padding-right: '5px'" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img width="30px" style="padding-right: '5px'" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img width="30px" style="padding-right: '5px'" alt="sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
