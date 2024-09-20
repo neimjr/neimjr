@@ -15,10 +15,11 @@ Frontend Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
 <img align="left" width="30px" style="padding-right: '10px'" alt="materializecss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
-<img align="left" width="30px" style="padding-right: '10px'" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-<img align="left" width="30px" style="padding-right: '10px'" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" width="30px" style="padding-right: '10px'" alt="solidjs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" />
+<img align="left" width="30px" style="padding-right: '10px'" alt="php"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" width="30px" style="padding-right: '10px'" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" width="30px" style="padding-right: '10px'" alt="postgresql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" width="30px" style="padding-right: '10px'" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-right: '10px'" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-<img align="left" width="30px" style="padding-right: '10px'" alt="solidjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" />
-<img align="left" width="30px" style="padding-right: '10px'" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
           
