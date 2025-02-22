@@ -1,6 +1,6 @@
 # Nei Junior
 Code Magician ![](https://www.tibiawiki.com.br/images/0/0f/Ferumbras.gif)
-I'm mainly in gitlab, most of these repos are mirrored
+<p>I'm mainly in gitlab, most of these repos are mirrored</p>
 ## 🧰 Tools
 <p align="left">
   <img width="40px" style="padding-right: 5px !important;" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
